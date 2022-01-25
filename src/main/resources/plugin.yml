@@ -1,0 +1,4 @@
+name: PlayerPrefs
+version: '${project.version}'
+main: org.qeston.playerprefs.main.Main
+api-version: 1.18

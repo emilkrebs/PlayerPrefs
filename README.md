@@ -3,6 +3,11 @@
     <img width="720" src="https://user-images.githubusercontent.com/68400102/151151267-dd5b6834-dd7c-46f2-b2f3-a56c8f620b49.png" alt="PlayerPrefs logo">
   </a>
 </p>
+<div id="badges" align="center">
+  
+   [![Build](https://github.com/emilkrebs/PlayerPrefs/actions/workflows/build.yml/badge.svg)](https://github.com/emilkrebs/PlayerPrefs/actions/workflows/build.yml)
+
+</div>
 <hr>
 
 PlayerPrefs is a easy tool to get and set custom preferences for each player and save them in a yaml file.

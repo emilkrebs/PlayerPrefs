@@ -5,7 +5,7 @@
 </p>
 <hr>
 
-PlayerPrefs is a easy tool to get and set custom preferences for each player.
+PlayerPrefs is a easy tool to get and set custom preferences for each player and save them in a yaml file.
 
 ## Getting started
 Add the jar file as external reference to your project.

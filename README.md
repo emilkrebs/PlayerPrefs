@@ -17,7 +17,6 @@ import org.qeston.playerprefs.utils.PlayerPrefs;
 ## Examples
 Have a look at the [examples](https://github.com/emilkrebs/PlayerPrefs/tree/a55e47bceb4eb910cb5c479ec6976a91907ba0a1/examples) directory.
 
-### Simple
 This will count the deaths and kills of a player.
 
 ```Java

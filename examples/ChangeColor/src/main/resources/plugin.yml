@@ -1,4 +1,0 @@
-name: ChangeColor
-version: '${project.version}'
-main: org.qeston.changecolor.main.Main
-api-version: 1.18

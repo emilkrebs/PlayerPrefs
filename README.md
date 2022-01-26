@@ -9,8 +9,9 @@
 
 </div>
 <hr>
+<a href="https://www.buymeacoffee.com/emilkrebs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-PlayerPrefs is a easy tool to get and set custom preferences for each player and save them in a yaml file.
+PlayerPrefs is an easy tool to get and set custom preferences for each player and save them in a yaml file.
 
 ## Getting started
 Add the jar file as external reference to your project.

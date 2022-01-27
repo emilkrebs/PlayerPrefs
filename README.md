@@ -16,7 +16,8 @@
 PlayerPrefs is an easy tool to get and set custom preferences for each player and save them in a yaml file.
 
 ## Getting started
-Add the jar file as external reference to your project.
+Download the newest build from [releases](https://github.com/emilkrebs/PlayerPrefs/releases/). Now add the jar file as module to your project.
+
 After that import using:
 ```Java
 import org.qeston.playerprefs.utils.PlayerPrefs;

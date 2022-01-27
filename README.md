@@ -5,8 +5,10 @@
 </p>
 <div id="badges" align="center">
   
+   ![Price](https://img.shields.io/badge/price-FREE-34D058)
    [![Build](https://github.com/emilkrebs/PlayerPrefs/actions/workflows/build.yml/badge.svg)](https://github.com/emilkrebs/PlayerPrefs/actions/workflows/build.yml)
    [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=PlayerPrefs%20is%20a%20easy%20tool%20to%20set%20preferences%20for%20each%20player%20for%20new%20spigot%20developers.%20%23spigot%20%23minecraft%20%23easy&url=https%3A%2F%2Fgithub.com%2Femilkrebs%2FPlayerPrefs)
+  
 </div>
 <hr>
 <a href="https://www.buymeacoffee.com/emilkrebs" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>

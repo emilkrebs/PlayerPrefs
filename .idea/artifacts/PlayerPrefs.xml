@@ -2,7 +2,7 @@
   <artifact type="jar" build-on-make="true" name="PlayerPrefs">
     <output-path>$PROJECT_DIR$/out/artifacts/PlayerPrefs</output-path>
     <root id="archive" name="PlayerPrefs.jar">
-      <element id="module-output" name="playerprefs" />
+      <element id="module-output" name="PlayerPrefs" />
     </root>
   </artifact>
 </component>

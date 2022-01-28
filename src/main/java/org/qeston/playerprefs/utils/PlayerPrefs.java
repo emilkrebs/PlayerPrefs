@@ -32,6 +32,26 @@ public class PlayerPrefs {
     }
 
     /**
+     * Set the value of the key in the player's preference file as boolean
+     * @param player
+     * @param key Key of the preference
+     * @param value Value you want to assign the key as boolean
+     */
+    public static void setBoolean(Player player, String key, Boolean value) {
+        set(player, key, value);
+    }
+
+    /**
+     * Get the value of the key in the player's preference file as boolean
+     * @param player
+     * @param key Key of the preference
+     * @return The value of the key in the player's preference file as boolean
+     */
+    public static Boolean getBoolean(Player player, String key) {
+        return (Boolean) get(player, key);
+    }
+
+    /**
      * Set the value of the key in the player's preference file as integer
      * @param player
      * @param key Key of the preference

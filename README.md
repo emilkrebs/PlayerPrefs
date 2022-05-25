@@ -56,3 +56,10 @@ public void onDeath(PlayerDeathEvent event) {
 | getString     | Get the value of a single key in the player's preference file as string.|
 | getInt        | Get the value of a single key in the player's preference file as integer.|
 | getFloat      | Get the value of a single key in the player's preference file as float. |
+
+
+## Known Issues
+
+None
+
+[Add Issue](https://github.com/emilkrebs/PlayerPrefs/issues/new)

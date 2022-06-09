@@ -25,7 +25,7 @@ import org.qeston.playerprefs.utils.PlayerPrefs;
 ## Examples
 Have a look at the [EasyMoneySystem](https://github.com/emilkrebs/EasyMoneySystem) example. 
 
-This codeexample will count the deaths and kills of a player:
+This code example will count the deaths and kills of a player:
 ```Java
 @EventHandler
 public void onDeath(PlayerDeathEvent event) {
